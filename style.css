@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #99c515;
+}
+
+.Sapio {
+    width: 20%;
+}
+
+@media screen and (max-width:576px) {
+    #invisible {
+        display: none;
+    }
+}
+
+.img-nav{
+    width: 60px;
+}
+
+.container-nav {
+    height: 60px;
+}
+
+.card-img-top{
+    width: 200px;
+}
+
+.off-giorno{
+    width: 400px;
+}
+
+.text-Testimonial {
+    text-align: center;
+}
